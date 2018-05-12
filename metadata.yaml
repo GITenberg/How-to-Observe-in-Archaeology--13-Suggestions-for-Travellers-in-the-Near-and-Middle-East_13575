@@ -1,0 +1,34 @@
+_repo: How-to-Observe-in-Archaeology--13-Suggestions-for-Travellers-in-the-Near-and-Middle-East_13575
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: British Museum
+    gutenberg_agent_id: '39745'
+    url: http://www.gutenberg.org/2009/agents/39745
+  editor:
+    agent_name: Hill, George Francis, Sir
+    alias: Hill, G. F. (George Francis), Sir
+    birthdate: 1867
+    deathdate: 1948
+    gutenberg_agent_id: '33261'
+    url: http://www.gutenberg.org/2009/agents/33261
+description: ''
+gutenberg_bookshelf: Archaeology
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CC'
+- !lcsh 'Oriental antiquities'
+- !lcsh 'Archaeology'
+title: "How to Observe in Archaeology\r\nSuggestions for Travellers in the Near and\
+  \ Middle East"
+url: http://www.gutenberg.org/ebooks/13575
