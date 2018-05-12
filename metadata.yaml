@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '33261'
     url: http://www.gutenberg.org/2009/agents/33261
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13575#How-to-Observe-in-Archaeology--13-Suggestions-for-Travellers-in-the-Near-and-Middle-East
 gutenberg_bookshelf: Archaeology
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
